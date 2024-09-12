@@ -106,6 +106,7 @@
       "decay": "15m"
     }
   ],
+  "difficulty": "0.435",
   "version": "62",
   "numUses": 5,
   "useChance": 0.25,

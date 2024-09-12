@@ -142,6 +142,7 @@
       "decay": "4m"
     }
   ],
+  "difficulty": "0.136",
   "version": "103",
   "foodValue": [
     4,

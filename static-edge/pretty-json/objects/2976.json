@@ -79,6 +79,7 @@
       "decay": "60m"
     }
   ],
+  "difficulty": "0.0634",
   "version": "217",
   "craftable": true,
   "depth": 9,

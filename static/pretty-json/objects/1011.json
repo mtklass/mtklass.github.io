@@ -173,6 +173,7 @@
       "decay": "1h"
     }
   ],
+  "difficulty": "0.305",
   "version": "101",
   "craftable": true,
   "depth": 57,

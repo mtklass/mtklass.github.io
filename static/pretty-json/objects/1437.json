@@ -56,6 +56,7 @@
       "decay": "3s"
     }
   ],
+  "difficulty": "0.115",
   "version": "127",
   "numUses": 10,
   "craftable": true,

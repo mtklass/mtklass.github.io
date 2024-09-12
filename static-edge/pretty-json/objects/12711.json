@@ -133,6 +133,7 @@
       "move": 1
     }
   ],
+  "difficulty": "0.150",
   "version": "20295",
   "numUses": 6,
   "useChance": 0.0025,

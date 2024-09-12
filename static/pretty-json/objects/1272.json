@@ -85,6 +85,7 @@
       "decay": "1s"
     }
   ],
+  "difficulty": "0.294",
   "version": "111",
   "numUses": 3,
   "craftable": true,

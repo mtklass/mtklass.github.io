@@ -178,6 +178,7 @@
       "decay": "35s"
     }
   ],
+  "difficulty": "0.595",
   "version": "20271",
   "heatValue": 18,
   "numUses": 5,

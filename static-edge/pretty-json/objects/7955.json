@@ -35,6 +35,7 @@
       "decay": "60m"
     }
   ],
+  "difficulty": "0.269",
   "version": "20275",
   "heatValue": 4,
   "numUses": 3,

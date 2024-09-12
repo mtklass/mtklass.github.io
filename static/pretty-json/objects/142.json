@@ -92,6 +92,7 @@
       "decay": "30s"
     }
   ],
+  "difficulty": "0.00199",
   "version": "20",
   "numUses": 5,
   "useChance": 0.2,

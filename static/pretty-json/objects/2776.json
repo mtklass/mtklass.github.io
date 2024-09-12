@@ -17,6 +17,7 @@
       "decay": "10s"
     }
   ],
+  "difficulty": "0.278",
   "version": "213",
   "heatValue": 3,
   "craftable": true,

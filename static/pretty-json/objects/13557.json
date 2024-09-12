@@ -401,6 +401,7 @@
       "decay": "5s"
     }
   ],
+  "difficulty": "0.601",
   "version": "20303",
   "heatValue": 12,
   "numUses": 12,
