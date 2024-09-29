@@ -32,7 +32,6 @@
       "decay": "10m"
     }
   ],
-  "difficulty": "0.206",
   "version": "20290",
   "numUses": 5,
   "craftable": true,
